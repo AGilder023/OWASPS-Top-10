@@ -2,8 +2,25 @@
 header {
     font-family: 'Notable', sans-serif;
     font-size: 50px;
-    text-align: center;
+    text-align: left;
 }
+
+nav>ul>li {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+img {
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+
 
 /* Heading Styles */
 
@@ -20,7 +37,6 @@ header {
 
 
 /* Navigation Styles */
-
 
 
 
